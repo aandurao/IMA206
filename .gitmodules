@@ -1,0 +1,3 @@
+[submodule "IMA206_project"]
+	path = IMA206_project
+	url = git@github.com:MunchkinChen/IMA206_project.git
